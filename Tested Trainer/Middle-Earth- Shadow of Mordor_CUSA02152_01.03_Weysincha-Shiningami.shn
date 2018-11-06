@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Middle-Earth: Shadow of Mordor" Moder="Weysincha/Shiningami" Cusa="CUSA02152" Version="01.03" Process="eboot.bin">
+  <Cheat Control="Toggel" Text="Godmode">
+    <Cheatline>
+      <Offset>1BA7C01</Offset>
+      <Section>0</Section>
+      <ValueOn>41-C7-87-64-01-00-00-00-00-C8-42-C4-C1-7A-10-87-64-01-00-00-E9-33-F4-76-FE</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>317044</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-B8-0B-89-01-90-90-90-90</ValueOn>
+      <ValueOff>C4-C1-7A-10-87-64-01-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Arrows">
+    <Cheatline>
+      <Offset>2D77D9</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>89-43-50</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="Infinite Focus">
+    <Cheatline>
+      <Offset>2D7747</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-4B-54</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>

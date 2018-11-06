@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fantasy XII: The Zodiac Age" Moder="GamerX" Cusa="CUSA05531" Version="01.00" Process="eboot.bin">
+  <Cheat Control="Button" Text="99999999 GIL">
+    <Cheatline>
+      <Offset>2902148</Offset>
+      <Section>0</Section>
+      <ValueOn>FF-E0-F5-05</ValueOn>
+      <ValueOff>FF-E0-F5-05</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="99999 HP For All Characters">
+    <Cheatline>
+      <Offset>29044D8</Offset>
+      <Section>0</Section>
+      <ValueOn>9F-86-01-00</ValueOn>
+      <ValueOff>9F-86-01-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="Max Van XP">
+    <Cheatline>
+      <Offset>29044D4</Offset>
+      <Section>0</Section>
+      <ValueOn>E3-AB-87-00</ValueOn>
+      <ValueOff>E3-AB-87-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
