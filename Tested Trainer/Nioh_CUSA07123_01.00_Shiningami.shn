@@ -5491,18 +5491,5 @@
       <ValueOff>49-8B-46-20</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinit KI">
-    <Cheatline>
-      <Offset>10CB80F</Offset>
-      <Section>0</Section>
-      <ValueOn>C4-E3-61-4A-E8-50-C5-FA-10-6F-04-C5-FA-11-2F-E9-FE-48-0B-FF</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <Offset>180117</Offset>
-      <Section>0</Section>
-      <ValueOn>E9-F3-B6-F4-00-90-90-90-90-90</ValueOn>
-      <ValueOff>C4-E3-61-4A-E8-50-C5-FA-11-2F</ValueOff>
-    </Cheatline>
-  </Cheat>
+ 
 </Trainer>
