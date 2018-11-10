@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="COD: Black Ops III" Moder="DeathRGH" Cusa="CUSA02624" Version="01.26" Process="eboot.bin">
+  <Cheat Control="Toggel" Text="All Client Infinite Ammo">
+    <Cheatline>
+      <Offset>11719DA</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90</ValueOn>
+      <ValueOff>44-89-28</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Toggel" Text="All Client Godmode">
+    <Cheatline>
+      <Offset>99D06F</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90-90-90-90-90</ValueOn>
+      <ValueOff>43-89-84-35-C8-02-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="Give Points (Player 1)">
+    <Cheatline>
+      <Offset>8050A94</Offset>
+      <Section>0</Section>
+      <ValueOn>90-D0-03-00</ValueOn>
+      <ValueOff>90-D0-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="Give Points (Player 2)">
+    <Cheatline>
+      <Offset>8067CA4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-D0-03-00</ValueOn>
+      <ValueOff>90-D0-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="Give Points (Player 3)">
+    <Cheatline>
+      <Offset>807EEB4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-D0-03-00</ValueOn>
+      <ValueOff>90-D0-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Control="Button" Text="Give Points (Player 4)">
+    <Cheatline>
+      <Offset>80960C4</Offset>
+      <Section>0</Section>
+      <ValueOn>90-D0-03-00</ValueOn>
+      <ValueOff>90-D0-03-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
