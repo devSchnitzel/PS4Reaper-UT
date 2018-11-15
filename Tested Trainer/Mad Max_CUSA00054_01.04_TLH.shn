@@ -13,12 +13,7 @@
     </Cheatline>
   </Cheat>
   <Cheat Control="Toggel" Text="Infinite Car Ammo">
-    <Cheatline>
-      <Offset>57D1E2</Offset>
-      <Section>0</Section>
-      <ValueOn>90-90-90-90</ValueOn>
-      <ValueOff>66-89-4F-04</ValueOff>
-    </Cheatline>
+    
     <Cheatline>
       <Offset>56D8B8</Offset>
       <Section>0</Section>
