@@ -12,7 +12,7 @@
       <ValueOff>C5-FA-11-57-1C</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Control="Toggel" Text="Infinite Ammo">
+  <Cheat Control="Toggel" Text="Infinite Car Ammo">
     <Cheatline>
       <Offset>57D1E2</Offset>
       <Section>0</Section>
