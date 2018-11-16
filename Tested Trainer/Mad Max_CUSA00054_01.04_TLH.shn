@@ -12,8 +12,19 @@
       <ValueOff>C5-FA-11-57-1C</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Control="Toggel" Text="Infinite Car Ammo">
-    
+  <Cheat Control="Toggel" Text="Infinite Ammo">
+    <Cheatline>
+      <Offset>3330FF</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-51-04</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>57D1E2</Offset>
+      <Section>0</Section>
+      <ValueOn>90-90-90-90</ValueOn>
+      <ValueOff>66-89-4F-04</ValueOff>
+    </Cheatline>
     <Cheatline>
       <Offset>56D8B8</Offset>
       <Section>0</Section>
