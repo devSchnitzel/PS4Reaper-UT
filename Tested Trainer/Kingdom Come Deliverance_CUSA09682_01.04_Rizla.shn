@@ -81,7 +81,7 @@
       <ValueOff>75-08-8B-41-38</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="x2 Money on Spend">
+  <Cheat Text="x2 Money/Items on Spend/Drop">
     <Cheatline>
       <Offset>1D09F6E</Offset>
       <Section>0</Section>
