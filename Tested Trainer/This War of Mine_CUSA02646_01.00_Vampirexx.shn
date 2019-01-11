@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="This War of Mine" Moder="Vampirexx" Cusa="CUSA02646" Version="01.00" Process="eboot.bin">
-  <Cheat Control="Toggel" Text="Infinite Items Backpack">
+  <Cheat Control="Toggel" Text="Inf Items Backpack">
     <Cheatline>
       <Offset>787C01</Offset>
       <Section>0</Section>
@@ -14,7 +14,7 @@
       <ValueOff>42-89-44-3B-20</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Control="Toggel" Text="Infinite Ammo and Items Consumables">
+  <Cheat Control="Toggel" Text="Inf Ammo and Items Consumables">
     <Cheatline>
       <Offset>787FF0</Offset>
       <Section>0</Section>
@@ -28,7 +28,7 @@
       <ValueOff>29-C8-41-89-07</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Control="Toggel" Text="Day never increased">
+  <Cheat Control="Toggel" Text="Day never increased (Use after Day1)">
     <Cheatline>
       <Offset>2A4546</Offset>
       <Section>0</Section>
